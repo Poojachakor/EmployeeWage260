@@ -14,7 +14,9 @@
             else
             {
                 Console.WriteLine("Employee is absent");
+
             }
+            Console.ReadLine();
         }
     }
 }
